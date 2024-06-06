@@ -36,8 +36,9 @@ This project is a React-based personal portfolio website where I introduce mysel
 To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/mz-dz/my-portfolio.git`
-2. Navigate to the project directory: `cd my-portfolio`
+2. Navigate to the project directory: `cd ibra`
 3. Install dependencies: `npm install`
+4. Run :`npm run dev`
 
 ## Usage
 
