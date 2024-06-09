@@ -1,7 +1,6 @@
 import './App.css';
 
 function App() {
-
   return (
     <>
       <h1 className="sh">
@@ -33,12 +32,12 @@ function App() {
       <br />
       <br />
       <h3>😄 Pronouns</h3>
-      <p>[Happy fan smart lovely and many more, e.g., He/Him, She/Her, They/Them]</p>
+      <p>Happy, fan, smart, lovely, and many more, e.g., He/Him, She/Her, They/Them</p>
 
       <br />
       <br />
       <h3>⚡ Fun Fact</h3>
-      <p>[good]</p>
+      <p>good</p>
       <br />
       <br />
       <button className="logo sh">I used <b>**chatgpt 👩‍💻**</b> to fast development with HTML, CSS, JS, React, Vite</button>
