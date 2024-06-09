@@ -10,7 +10,7 @@ function App() {
     </h1>
     <h2 className="logo">
       (☞ﾟヮﾟ)☞ All My Projects in My own{" "}
-      <a href="https://github.com/mz-dz" rel="follow">Github</a>{" "}
+      <a href="https://github.com/mz-dz" rel="prefetch">Github</a>{" "}
     </h2>
     <h3 id="-interests">👀 Interests</h3>
     <ol>
